@@ -11,10 +11,11 @@
 
 .app-title {
     padding: 20px;
+    font-family: cursive;
 }
 
 .mat-toolbar{
-    background-color:rgb(255, 127, 227);
+    background-color:rgb(158, 150, 156);
     color: black;
     padding: 20px;
 }

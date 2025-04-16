@@ -1,0 +1,44 @@
+/* .mat-flat-button{
+    padding: 5px;
+} */
+
+.card-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mat-paginator {
+    width: 100%;
+}
+
+.edit-btn {
+    background-color: rgb(12, 74, 168) !important;
+    color:aliceblue !important;
+}
+
+.delete-btn {
+    background-color: rgb(230, 78, 78) !important;
+    color:aliceblue !important;
+}
+
+.mat-mdc-header-row {
+    background-color: rgb(238, 227, 227);
+    color:black;
+    
+}
+
+.card-title {
+    padding-bottom: 20px;
+    font-family: cursive;
+}
+
+.mat-mdc-header-cell  {
+    text-align: center;
+    font-size: medium;
+    font-weight: 900;
+    font-family: cursive;
+}
+
+.mat-mdc-cell{
+    text-align: center;
+}
