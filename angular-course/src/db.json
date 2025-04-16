@@ -1,0 +1,8 @@
+{
+    "expenses": [
+        {"id": 1, "title": "Restaurant 1", "category": "Food", "amount": 50, "date": "03-31-2025"},
+        {"id": 2, "title": "Date 1", "category": "Trip", "amount": 500, "date": "03-04-2025"},
+        {"id": 3, "title": "Rent 1", "category": "Utilities", "amount": 1500, "date": "03-05-2025"},
+        {"id": 4, "title": "Club 1", "category": "Fun", "amount": 700, "date": "03-25-2025"}
+    ]
+}
